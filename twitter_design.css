@@ -1,0 +1,77 @@
+
+.navbar-brand
+{
+    font-variant: small-caps;
+}
+
+main
+{
+    padding-top: 30px;
+    min-height: 800px;
+    background-image: url("images/bg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.panel-heading
+{
+    font-size: 25px;
+    font-variant: small-caps;
+}
+
+.radio
+{
+    margin-bottom: 20px;
+}
+.radio-panel
+{
+    background-color: beige;
+    border-radius: 0px 0px 5px 5px;
+}
+
+.radio-panel label
+{
+    font-size: 15px;
+   font-family: 'Bree Serif', serif;
+}
+.panel-body
+{
+    background-color: beige;
+}
+
+
+marquee
+{
+    margin-top: 50px;
+    font-size: 50px;
+    color:white;
+    font-family: 'Ubuntu', sans-serif;
+}
+#user_select
+{
+    margin-bottom:30px;
+}
+#resetbtn
+{
+    margin-left: 15px;
+}
+#change_reset
+{
+    margin-left: 15px;
+}
+
+.navmenu
+{
+    margin:60px 5px 5px 5px; 
+    max-width: 210px;
+    padding:15px;
+   background-color: beige;
+    border-radius: 20px;
+}
+.navmenu-brand 
+{
+   font-weight: bold;
+   font-size:40px;
+}
